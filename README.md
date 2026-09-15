@@ -365,16 +365,7 @@ The team worked together on:
 
 *Add screenshots of the game interface here.*
 
-Example:
 
-```text
-screenshots/
-├── main-menu.png
-├── game-board.png
-├── player-dashboard.png
-├── zombie-event.png
-└── multiplayer.png
-```
 
 You can then display them in the README using:
 
