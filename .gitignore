@@ -1,0 +1,15 @@
+# Build and temporary directories
+target/
+out/
+build/
+
+# IDE and editor files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# System files
+.DS_Store
+*.log

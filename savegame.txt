@@ -1,0 +1,83 @@
+{
+  "players": [
+    {
+      "name": "Alice",
+      "health": 1500,
+      "maxHealth": 1500,
+      "money": 1000,
+      "attack": 100,
+      "influence": 0,
+      "medicine": 0,
+      "pos": 20,
+      "color": "#ff3b30",
+      "inQuarantine": false,
+      "labCureFunded": false,
+      "labPassesRemaining": 0,
+      "labCureComplete": false,
+      "isAI": false,
+      "history": {
+        "history": []
+      }
+    },
+    {
+      "name": "Bob",
+      "health": 1500,
+      "maxHealth": 1500,
+      "money": 1000,
+      "attack": 100,
+      "influence": 0,
+      "medicine": 0,
+      "pos": 20,
+      "color": "#34c759",
+      "inQuarantine": false,
+      "labCureFunded": false,
+      "labPassesRemaining": 0,
+      "labCureComplete": false,
+      "isAI": false,
+      "history": {
+        "history": []
+      }
+    },
+    {
+      "name": "Charlie",
+      "health": 1500,
+      "maxHealth": 1500,
+      "money": 1000,
+      "attack": 100,
+      "influence": 0,
+      "medicine": 0,
+      "pos": 20,
+      "color": "#007aff",
+      "inQuarantine": false,
+      "labCureFunded": false,
+      "labPassesRemaining": 0,
+      "labCureComplete": false,
+      "isAI": false,
+      "history": {
+        "history": []
+      }
+    },
+    {
+      "name": "Diana",
+      "health": 1500,
+      "maxHealth": 1500,
+      "money": 1000,
+      "attack": 100,
+      "influence": 0,
+      "medicine": 0,
+      "pos": 20,
+      "color": "#ffcc00",
+      "inQuarantine": false,
+      "labCureFunded": false,
+      "labPassesRemaining": 0,
+      "labCureComplete": false,
+      "isAI": false,
+      "history": {
+        "history": []
+      }
+    }
+  ],
+  "currentIndex": 0,
+  "lastRoll": 0,
+  "tiles": {}
+}
